@@ -1,0 +1,14 @@
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.Admin_main.resources
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.customer.resources
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.order.resources
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.Receptionist_main.resources
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.sales.resources
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.Signin.resources
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.Resources.resources
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.vbproj.GenerateResource.Cache
+C:\Users\divya\AppData\Local\Temporary Projects\cake\bin\Debug\cake.exe
+C:\Users\divya\AppData\Local\Temporary Projects\cake\bin\Debug\cake.pdb
+C:\Users\divya\AppData\Local\Temporary Projects\cake\bin\Debug\cake.xml
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.exe
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.xml
+C:\Users\divya\AppData\Local\Temporary Projects\cake\obj\x86\Debug\cake.pdb
